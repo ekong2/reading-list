@@ -1,0 +1,11 @@
+# Favorites
+- Clean code
+- Checklist Manifesto
+- Algorithms to Live By
+- The Master Algorithm
+- Zero to One
+- The Intelligent Investor
+- Fooled By Randomness
+- Autobiography of Benjamin Franklin
+- A People’s History of the United States
+- Guns, Germs, and Steel
